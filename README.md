@@ -7,61 +7,30 @@
 
 **[View Live Preview](https://startbootstrap.github.io/startbootstrap-clean-blog/)**
 
+# My Technical Writing Portfolio
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Technical Writing Portfolio</title>
-    <link rel="stylesheet" href="style.css">
-</head>
+## Welcome!
+This repository contains my final portfolio for my Technical Writing course.
 
-<body>
+## About This Project
+This website is designed to showcase my writing projects, research, and the skills I have developed throughout the semester. It will serve as a collection of my coursework and demonstrate my growth as a technical writer.
 
-    <header>
-        <h1>My Technical Writing Portfolio</h1>
-        <p>Showcasing my work, projects, and writing development.</p>
-    </header>
+## Website Contents
+- Home
+- About Me
+- Sample Projects
+- Writing Samples
+- Course Reflection
 
-    <nav>
-        <a href="#home">Home</a>
-        <a href="#about">About Me</a>
-        <a href="#projects">Projects</a>
-        <a href="#writing">Writing Samples</a>
-        <a href="#contact">Contact</a>
-    </nav>
+## Technologies Used
+- HTML
+- CSS
+- GitHub
+- GitHub Pages
 
-    <main>
-        <section id="home">
-            <h2>Welcome to My Portfolio</h2>
-            <p>Explore my technical writing projects and coursework.</p>
-        </section>
+## Project Status
+Draft in progress. Additional content, sample projects, and revisions will be added as the portfolio develops.
 
-        <section id="about">
-            <h2>About Me</h2>
-            <p>Add a brief introduction about yourself here.</p>
-        </section>
+---
 
-        <section id="projects">
-            <h2>My Projects</h2>
-            <p>Showcase projects completed throughout the semester.</p>
-        </section>
-
-        <section id="writing">
-            <h2>Writing Samples</h2>
-            <p>Include examples of your writing and revisions.</p>
-        </section>
-
-        <section id="contact">
-            <h2>Contact</h2>
-            <p>Add your contact information here.</p>
-        </section>
-    </main>
-
-    <footer>
-        <p>&copy; 2026 My Technical Writing Portfolio</p>
-    </footer>
-
-</body>
-</html>
+Created for my Technical Writing course.
